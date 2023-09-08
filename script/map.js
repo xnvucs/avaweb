@@ -1,0 +1,1 @@
+document.getElementById("avawebYear").innerHTML = new Date().getFullYear();
