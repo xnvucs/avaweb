@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /font/
+Disallow: /script/
+Disallow: /style/
+
+Sitemap: https://www.avaweb.net/ror.xml
+Sitemap: https://www.avaweb.net/sitemap.html
+Sitemap: https://www.avaweb.net/sitemap.xml
+Sitemap: https://www.avaweb.net/sitemap_index.xml
+Sitemap: https://www.avaweb.net/sitemap-image.xml
+Sitemap: https://www.avaweb.net/sitemapindex.xml
+Sitemap: https://www.avaweb.net/urllist.txt
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Googlebot-news
+User-agent: BingBot
+User-agent: MSNBot
+User-agent: Yandex
+Allow: *.js
+Allow: *.css
+Allow: *.jpeg
+Allow: *.jpg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
