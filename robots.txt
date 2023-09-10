@@ -2,12 +2,10 @@ User-agent: *
 Crawl-delay: 10
 Disallow: /font/
 
-Sitemap: https://www.avaweb.net/ror.xml
+Sitemap: https://www.avaweb.net/feed.xml
+Sitemap: https://www.avaweb.net/sitemap-image.xml
 Sitemap: https://www.avaweb.net/sitemap.html
 Sitemap: https://www.avaweb.net/sitemap.xml
-Sitemap: https://www.avaweb.net/sitemap_index.xml
-Sitemap: https://www.avaweb.net/sitemap-image.xml
-Sitemap: https://www.avaweb.net/sitemapindex.xml
 Sitemap: https://www.avaweb.net/urllist.txt
 
 User-agent: Googlebot
