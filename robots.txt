@@ -1,8 +1,6 @@
 User-agent: *
 Crawl-delay: 10
 Disallow: /font/
-Disallow: /script/
-Disallow: /style/
 
 Sitemap: https://www.avaweb.net/ror.xml
 Sitemap: https://www.avaweb.net/sitemap.html
