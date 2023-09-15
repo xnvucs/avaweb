@@ -1,11 +1,11 @@
 User-agent: *
 Crawl-delay: 10
-Disallow: /font/
+Allow: /
 
 Sitemap: https://www.avaweb.net/feed.xml
-Sitemap: https://www.avaweb.net/sitemap-image.xml
 Sitemap: https://www.avaweb.net/sitemap.html
 Sitemap: https://www.avaweb.net/sitemap.xml
+Sitemap: https://www.avaweb.net/sitemap-image.xml
 Sitemap: https://www.avaweb.net/urllist.txt
 
 User-agent: Googlebot
@@ -15,6 +15,7 @@ User-agent: Googlebot-news
 User-agent: BingBot
 User-agent: MSNBot
 User-agent: Yandex
+Allow: /
 Allow: *.js
 Allow: *.css
 Allow: *.jpeg

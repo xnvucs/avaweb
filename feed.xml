@@ -112,5 +112,45 @@
 			<ror:sortOrder>2</ror:sortOrder>
 			<ror:resourceOf>sitemap</ror:resourceOf>
 		</item>
+		<item>
+			<link>https://www.avaweb.net/000014.html</link>
+			<title>بلاگ</title>
+			<description>بلاگ معرفی تمامی زیرمجموعه های خدمات آوا وب شامل زیر مجموعه های خدمات طراحی قالب سایت، طراحی وب، طراحی گرافیک، طراحی رابط کاربری و طراحی تجربه کاربری</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>1</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000015.html</link>
+			<title>طراحی سایت شرکتی</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت شرکتی می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000016.html</link>
+			<title>طراحی سایت آژانس مسافرتی</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت آژانس مسافرتی می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000017.html</link>
+			<title>طراحی سایت صنعتی</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت صنعتی می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000018.html</link>
+			<title>طراحی سایت املاک</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت املاک می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
 	</channel>
 </rss>
