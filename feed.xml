@@ -152,5 +152,45 @@
 			<ror:sortOrder>2</ror:sortOrder>
 			<ror:resourceOf>sitemap</ror:resourceOf>
 		</item>
+		<item>
+			<link>https://www.avaweb.net/000019.html</link>
+			<title>بلاگ</title>
+			<description>بلاگ معرفی تمامی زیرمجموعه های خدمات آوا وب شامل زیر مجموعه های خدمات طراحی قالب سایت، طراحی وب، طراحی گرافیک، طراحی رابط کاربری و طراحی تجربه کاربری</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>1</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000020.html</link>
+			<title>طراحی سایت طلا و جواهر</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت طلا و جواهر می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000021.html</link>
+			<title>طراحی سایت شخصی</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت شخصی می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000022.html</link>
+			<title>طراحی سایت باشگاه ورزشی</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت باشگاه ورزشی می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
+		<item>
+			<link>https://www.avaweb.net/000023.html</link>
+			<title>طراحی سایت تبلیغاتی</title>
+			<description>به دنبال یک طراح سایت برای طراحی سایت تبلیغاتی می گردید؟ اگر تخصص و تجربه برای شما اهمیت دارد، آوا وب با سال ها تجربه می تواند گزینه مناسبی برای انجام پروژه های شما باشد</description>
+			<ror:updatePeriod>day</ror:updatePeriod>
+			<ror:sortOrder>2</ror:sortOrder>
+			<ror:resourceOf>sitemap</ror:resourceOf>
+		</item>
 	</channel>
 </rss>
