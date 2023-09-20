@@ -135,4 +135,34 @@
 		<changefreq>always</changefreq>
 		<priority>1.0</priority>
 	</url>
+	<url>
+		<loc>https://www.avaweb.net/000024.html</loc>
+		<lastmod>2023-09-09T15:00:00+01:00</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000025.html</loc>
+		<lastmod>2023-09-09T15:00:00+01:00</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000026.html</loc>
+		<lastmod>2023-09-09T15:00:00+01:00</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000027.html</loc>
+		<lastmod>2023-09-09T15:00:00+01:00</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000028.html</loc>
+		<lastmod>2023-09-09T15:00:00+01:00</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</url>
 </urlset>

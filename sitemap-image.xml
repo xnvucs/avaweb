@@ -424,4 +424,77 @@
 			<image:title>طراحی سایت تبلیغاتی</image:title>
 		</image:image>
 	</url>
+	<url>
+		<loc>https://www.avaweb.net/000024.html</loc>
+		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000060.jpg</image:loc>
+			<image:title>طراحی سایت پیش بینی فوتبال</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000061.jpg</image:loc>
+			<image:title>طراحی سایت مزون</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000062.jpg</image:loc>
+			<image:title>طراحی سایت آتلیه عکاسی</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000063.jpg</image:loc>
+			<image:title>طراحی سایت وکلا</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000025.html</loc>
+		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000060.jpg</image:loc>
+			<image:title>طراحی سایت پیش بینی فوتبال</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000026.html</loc>
+		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000061.jpg</image:loc>
+			<image:title>طراحی سایت مزون</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000027.html</loc>
+		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000062.jpg</image:loc>
+			<image:title>طراحی سایت آتلیه عکاسی</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000028.html</loc>
+		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000063.jpg</image:loc>
+			<image:title>طراحی سایت وکلا</image:title>
+		</image:image>
+	</url>
 </urlset>
