@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
 		<loc>https://www.avaweb.net/index.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000007.png</image:loc>
@@ -23,7 +23,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000001.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000007.png</image:loc>
@@ -44,7 +44,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000002.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000012.gif</image:loc>
@@ -97,7 +97,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000003.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000039.jpg</image:loc>
@@ -118,7 +118,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000004.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -127,7 +127,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000005.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -140,7 +140,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000006.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -153,7 +153,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000007.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -166,7 +166,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000008.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-13T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -179,7 +179,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000009.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-15T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000024.gif</image:loc>
@@ -228,7 +228,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000010.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-15T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -241,7 +241,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000011.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-15T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -254,7 +254,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000012.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-15T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -267,7 +267,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000013.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-15T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -280,7 +280,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000014.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-17T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000052.jpg</image:loc>
@@ -301,7 +301,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000015.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-17T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -314,7 +314,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000016.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-17T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -327,7 +327,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000017.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-17T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -340,7 +340,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000018.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-17T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -353,7 +353,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000019.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-19T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000056.jpg</image:loc>
@@ -374,7 +374,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000020.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-19T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -387,7 +387,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000021.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-19T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -400,7 +400,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000022.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-19T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -413,7 +413,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000023.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-19T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -426,7 +426,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000024.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-21T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000060.jpg</image:loc>
@@ -447,7 +447,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000025.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-21T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -460,7 +460,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000026.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-21T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -473,7 +473,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000027.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-21T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -486,7 +486,7 @@
 	</url>
 	<url>
 		<loc>https://www.avaweb.net/000028.html</loc>
-		<lastmod>2023-09-09T12:00:00+01:00</lastmod>
+		<lastmod>2023-09-21T12:00:00+01:00</lastmod>
 		<priority>1.0</priority>
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
@@ -495,6 +495,79 @@
 		<image:image>
 			<image:loc>https://www.avaweb.net/image/000063.jpg</image:loc>
 			<image:title>طراحی سایت وکلا</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000029.html</loc>
+		<lastmod>2023-09-23T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000064.jpg</image:loc>
+			<image:title>طراحی سایت آزمایشگاه</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000065.jpg</image:loc>
+			<image:title>طراحی سایت آموزشی و آموزش آنلاین</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000066.jpg</image:loc>
+			<image:title>طراحی سایت بازرگانی</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000067.jpg</image:loc>
+			<image:title>طراحی سایت پرسش و پاسخ</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000030.html</loc>
+		<lastmod>2023-09-23T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000064.jpg</image:loc>
+			<image:title>طراحی سایت آزمایشگاه</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000031.html</loc>
+		<lastmod>2023-09-23T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000065.jpg</image:loc>
+			<image:title>طراحی سایت آموزشی و آموزش آنلاین</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000032.html</loc>
+		<lastmod>2023-09-23T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000066.jpg</image:loc>
+			<image:title>طراحی سایت بازرگانی</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.avaweb.net/000033.html</loc>
+		<lastmod>2023-09-23T12:00:00+01:00</lastmod>
+		<priority>1.0</priority>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000005.png</image:loc>
+			<image:title>محمدرضا طاهری</image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.avaweb.net/image/000067.jpg</image:loc>
+			<image:title>طراحی سایت پرسش و پاسخ</image:title>
 		</image:image>
 	</url>
 </urlset>
